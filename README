@@ -1,0 +1,22 @@
+
+subsubplot: Create nested subplots in Matlab
+
+
+USAGE
+
+  Add the directory 'subsubplot/src' to your Matlab path.
+
+  Simple example:
+
+    ...
+
+  For full documentation, see http://kenschutte.com/subsubplot
+
+LICENSE
+  
+  This code is released under the GPL.
+
+AUTHOR
+
+  Ken Schutte
+  kenschutte@gmail.com
